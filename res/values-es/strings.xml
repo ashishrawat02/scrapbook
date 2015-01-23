@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbook App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string name="eiffel">Torre Eiffel</string>
+         <string name="opera">Sydney Opera</string>
+          <string name="pyramids">pirámides</string>
+            <string name="stoneHenge">Stonehenge</string>
+            
+            
+            
+              <string name="tower">La Torre Eiffel es una torre de celosía de hierro situada en el Champ de Mars en París</string>
+               <string name="house">La Ópera de Sydney es un centro de artes escénicas en Sídney</string>
+               <string name="egypt">Las pirámides de Egipto son antiguas estructuras de albañilería situadas en Egipto</string>
+                <string name="henge">Stonehenge es seguramente Bretaña mayor icono nacional</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbook App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string name="eiffel">Eiffel Tower</string>
+         <string name="opera">Sydney opera</string>
+          <string name="pyramids">Pyramids</string>
+            <string name="stoneHenge">Stone Henge</string>
+            
+            
+            
+              <string name="tower">The Eiffel Tower is an iron lattice tower located on the Champ de Mars in Paris</string>
+               <string name="house">The Sydney Opera House is a  performing arts centre in Sydney</string>
+               <string name="egypt">The Egyptian pyramids are ancient masonry structures located in Egypt</string>
+                <string name="henge">Stonehenge is surely Britain greatest national icon</string>
+</resources>
